@@ -4,7 +4,7 @@
 To write a python program for copying the contents from one file to another file.
 ## EQUIPEMENT'S REQUIRED: 
 PC
-Anaconda - Python 3.7
+Anaconda - Python 3.7 
 ## ALGORITHM: 
 ### Step 1:
 Create a text file with some content in it.
