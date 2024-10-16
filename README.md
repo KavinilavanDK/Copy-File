@@ -29,7 +29,7 @@ with open("copytxt","w") as fp1:
     fp1.write(msg1)
 ```
 ### OUTPUT:
-![Screenshot 2024-10-16 160914](https://github.com/user-attachments/assets/f6740c93-3708-4bbc-a911-cd92de45fa18)
+![image](https://github.com/user-attachments/assets/c77e975b-9b29-424d-8bb9-fe199dfdabdc)
 ![dkjfs](https://github.com/user-attachments/assets/75e0770e-08a7-49aa-b0e6-907838747622)
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
