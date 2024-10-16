@@ -21,15 +21,15 @@ Then close the file
 ## PROGRAM:
 ```
 #Python program for copying the contents from one file to another file.
-#Developed by: MONISH N
-#Register Number: 212223240097
-with open("text1.txt","r") as fp:
+#Developed by: KAVI NILAVAN DK
+#Register Number: 212223230103
+with open("text1.txt",r") as fp:
     msg1=fp.read()
 with open("copytxt","w") as fp1:
     fp1.write(msg1)
 ```
 ### OUTPUT:
-![Screenshot 2024-10-16 152855](https://github.com/user-attachments/assets/94ef7490-65b9-4f9a-b9b9-cad29489a144)
-![Screenshot 2024-10-16 152957](https://github.com/user-attachments/assets/0dfdc848-3e97-4205-a072-57850c970e27)
+![Screenshot 2024-10-16 160914](https://github.com/user-attachments/assets/f6740c93-3708-4bbc-a911-cd92de45fa18)
+![dkjfs](https://github.com/user-attachments/assets/75e0770e-08a7-49aa-b0e6-907838747622)
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
